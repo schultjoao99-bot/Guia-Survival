@@ -1,0 +1,2724 @@
+{
+  "modules": [
+    {
+      "id": "agua",
+      "title": "Módulo 1: Água (Prioridade Zero)",
+      "description": "A água é o recurso mais crítico. Sem ela, o corpo humano falha em poucos dias.",
+      "icon": "Droplets",
+      "crafts": [
+        {
+          "id": "filtro-natural-de-carvao",
+          "title": "Filtro Natural de Carvão",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "destilador-solar-de-solo",
+          "title": "Destilador Solar de Solo",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "coleta-de-orvalho-com-tecido",
+          "title": "Coleta de Orvalho com Tecido",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "purificacao-por-fervura",
+          "title": "Purificação por Fervura",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "extracao-de-agua-de-cipos",
+          "title": "Extração de Água de Cipós",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "captacao-de-chuva-com-lona",
+          "title": "Captação de Chuva com Lona",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "filtro-de-areia-e-cascalho",
+          "title": "Filtro de Areia e Cascalho",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "destilador-de-transpiracao",
+          "title": "Destilador de Transpiração",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "derretimento-de-neve",
+          "title": "Derretimento de Neve",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "identificacao-de-fontes",
+          "title": "Identificação de Fontes",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "purificacao-quimica-iodo",
+          "title": "Purificação Química (Iodo)",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "poco-de-infiltracao",
+          "title": "Poço de Infiltração",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "abrigo",
+      "title": "Módulo 2: Abrigo e Fogo",
+      "description": "Proteção contra os elementos e regulação térmica são vitais para evitar a hipotermia.",
+      "icon": "Flame",
+      "crafts": [
+        {
+          "id": "fogueira-refletora",
+          "title": "Fogueira Refletora",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "abrigo-de-detritos",
+          "title": "Abrigo de Detritos",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fogo-de-friccao-bow-drill",
+          "title": "Fogo de Fricção (Bow Drill)",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "cama-de-isolamento-termico",
+          "title": "Cama de Isolamento Térmico",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "abrigo-lean-to-classico",
+          "title": "Abrigo Lean-to Clássico",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fogueira-dakota-fire-hole",
+          "title": "Fogueira Dakota Fire Hole",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fogo-com-pederneira",
+          "title": "Fogo com Pederneira",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "abrigo-de-neve-quinzhee",
+          "title": "Abrigo de Neve (Quinzhee)",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fogueira-estrela",
+          "title": "Fogueira Estrela",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "tenda-improvisada",
+          "title": "Tenda Improvisada",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "tocha-de-resina",
+          "title": "Tocha de Resina",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fogo-de-trincheira",
+          "title": "Fogo de Trincheira",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "Módulo 3: Ferramentas de Mata",
+      "description": "Multiplique sua força e eficiência criando ferramentas rudimentares.",
+      "icon": "Hammer",
+      "crafts": [
+        {
+          "id": "corda-de-fibras-vegetais",
+          "title": "Corda de Fibras Vegetais",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "faca-de-pedra-lascada",
+          "title": "Faca de Pedra Lascada",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "machado-de-pedra-polida",
+          "title": "Machado de Pedra Polida",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "agulha-de-osso",
+          "title": "Agulha de Osso",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "recipiente-de-casca",
+          "title": "Recipiente de Casca",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "lanca-endurecida-ao-fogo",
+          "title": "Lança Endurecida ao Fogo",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "martelo-de-madeira",
+          "title": "Martelo de Madeira",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "anzol-de-osso",
+          "title": "Anzol de Osso",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "mochila-improvisada",
+          "title": "Mochila Improvisada",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "pa-de-madeira",
+          "title": "Pá de Madeira",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "estacas-de-fixacao",
+          "title": "Estacas de Fixação",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "arco-de-sobrevivencia",
+          "title": "Arco de Sobrevivência",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "sinalizacao",
+      "title": "Módulo 4: Sinalização e Resgate",
+      "description": "Seja encontrado. A sinalização ativa é a diferença entre ser visto ou ignorado.",
+      "icon": "Radio",
+      "crafts": [
+        {
+          "id": "fogo-de-sinalizacao-triplo",
+          "title": "Fogo de Sinalização Triplo",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "espelho-improvisado",
+          "title": "Espelho Improvisado",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "sinalizacao-solo-ar-sos",
+          "title": "Sinalização Solo-Ar (SOS)",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "apito-de-bambu",
+          "title": "Apito de Bambu",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fumaca-colorida",
+          "title": "Fumaça Colorida",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "bandeira-de-alto-contraste",
+          "title": "Bandeira de Alto Contraste",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "marcadores-de-trilha",
+          "title": "Marcadores de Trilha",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "sinalizador-noturno",
+          "title": "Sinalizador Noturno",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "codigo-morse-com-lanterna",
+          "title": "Código Morse com Lanterna",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "painel-refletivo",
+          "title": "Painel Refletivo",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "sinalizacao-acustica",
+          "title": "Sinalização Acústica",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "pipa-de-sinalizacao",
+          "title": "Pipa de Sinalização",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "navegacao",
+      "title": "Módulo 5: Navegação e Orientação",
+      "description": "Encontre seu caminho sem tecnologia usando métodos ancestrais e observação.",
+      "icon": "Compass",
+      "crafts": [
+        {
+          "id": "bussola-de-agulha-flutuante",
+          "title": "Bússola de Agulha Flutuante",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "navegacao-pelas-estrelas",
+          "title": "Navegação pelas Estrelas",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "metodo-da-sombra-da-vara",
+          "title": "Método da Sombra da Vara",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "leitura-de-musgo",
+          "title": "Leitura de Musgo",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "relogio-solar-improvisado",
+          "title": "Relógio Solar Improvisado",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "navegacao-lunar",
+          "title": "Navegação Lunar",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "orientacao-por-correntes",
+          "title": "Orientação por Correntes",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "mapeamento-mental",
+          "title": "Mapeamento Mental",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "estimativa-de-distancia",
+          "title": "Estimativa de Distância",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "identificacao-pelo-vento",
+          "title": "Identificação pelo Vento",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "navegacao-animal",
+          "title": "Navegação Animal",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "criacao-de-mapa-de-casca",
+          "title": "Criação de Mapa de Casca",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "primeiros-socorros",
+      "title": "Módulo 6: Primeiros Socorros",
+      "description": "Tratamento de traumas e doenças com recursos limitados e medicina natural.",
+      "icon": "ShieldCheck",
+      "crafts": [
+        {
+          "id": "torniquete-improvisado",
+          "title": "Torniquete Improvisado",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "tala-para-fraturas",
+          "title": "Tala para Fraturas",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "curativo-de-musgo",
+          "title": "Curativo de Musgo",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "cataplasma-de-ervas",
+          "title": "Cataplasma de Ervas",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "tratamento-de-bolhas",
+          "title": "Tratamento de Bolhas",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "imobilizacao-de-ombro",
+          "title": "Imobilização de Ombro",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "maca-de-transporte",
+          "title": "Maca de Transporte",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "tratamento-para-hipotermia",
+          "title": "Tratamento para Hipotermia",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "extracao-de-farpas",
+          "title": "Extração de Farpas",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "lavagem-de-ferimentos",
+          "title": "Lavagem de Ferimentos",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "tratamento-de-insolacao",
+          "title": "Tratamento de Insolação",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "sutura-de-emergencia",
+          "title": "Sutura de Emergência",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "caca-pesca",
+      "title": "Módulo 7: Caça e Pesca",
+      "description": "Obtenção de proteína animal através de armadilhas passivas e caça ativa.",
+      "icon": "MapIcon",
+      "crafts": [
+        {
+          "id": "armadilha-de-laco-snare",
+          "title": "Armadilha de Laço (Snare)",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "armadilha-de-queda",
+          "title": "Armadilha de Queda",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "lanca-de-pesca",
+          "title": "Lança de Pesca",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "covo-de-pesca",
+          "title": "Covo de Pesca",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "rede-de-emalhar",
+          "title": "Rede de Emalhar",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "armadilha-figura-4",
+          "title": "Armadilha Figura 4",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fisga-de-osso",
+          "title": "Fisga de Osso",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "preparo-de-animais",
+          "title": "Preparo de Animais",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "defumacao-de-carne",
+          "title": "Defumação de Carne",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "iscas-naturais",
+          "title": "Iscas Naturais",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "rastreamento-de-pegadas",
+          "title": "Rastreamento de Pegadas",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "zarabatana-de-bambu",
+          "title": "Zarabatana de Bambu",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "coleta",
+      "title": "Módulo 8: Coleta e Forrageamento",
+      "description": "Identificação segura e processamento de calorias vegetais na natureza.",
+      "icon": "Layers",
+      "crafts": [
+        {
+          "id": "teste-de-comestibilidade",
+          "title": "Teste de Comestibilidade",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "identificacao-de-raizes",
+          "title": "Identificação de Raízes",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "coleta-de-pinhoes",
+          "title": "Coleta de Pinhões",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "regras-para-cogumelos",
+          "title": "Regras para Cogumelos",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "extracao-de-seiva",
+          "title": "Extração de Seiva",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "coleta-de-insetos",
+          "title": "Coleta de Insetos",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "cha-de-agulhas-de-pinheiro",
+          "title": "Chá de Agulhas de Pinheiro",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "plantas-toxicas-comuns",
+          "title": "Plantas Tóxicas Comuns",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "armazenamento-seguro",
+          "title": "Armazenamento Seguro",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "coleta-de-frutos",
+          "title": "Coleta de Frutos",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "processamento-de-bolotas",
+          "title": "Processamento de Bolotas",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "farinha-de-raizes",
+          "title": "Farinha de Raízes",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "defesa",
+      "title": "Módulo 9: Defesa e Segurança",
+      "description": "Proteção do acampamento e integridade física contra predadores e ameaças.",
+      "icon": "AlertTriangle",
+      "crafts": [
+        {
+          "id": "perimetro-de-alarme",
+          "title": "Perímetro de Alarme",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "lanca-de-defesa",
+          "title": "Lança de Defesa",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "bastao-tatico",
+          "title": "Bastão Tático",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "camuflagem-visual",
+          "title": "Camuflagem Visual",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "ocultacao-de-odor",
+          "title": "Ocultação de Odor",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "barricada-de-espinhos",
+          "title": "Barricada de Espinhos",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "defesa-contra-predadores",
+          "title": "Defesa contra Predadores",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "fogo-de-protecao",
+          "title": "Fogo de Proteção",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "escudo-de-casca",
+          "title": "Escudo de Casca",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "taticas-de-evasao",
+          "title": "Táticas de Evasão",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "ameacas-biologicas",
+          "title": "Ameaças Biológicas",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "armadilha-de-alerta",
+          "title": "Armadilha de Alerta",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    },
+    {
+      "id": "psicologia",
+      "title": "Módulo 10: Psicologia de Crise",
+      "description": "A mente é sua principal ferramenta. Gerenciamento de estresse e tomada de decisão.",
+      "icon": "Info",
+      "crafts": [
+        {
+          "id": "regra-dos-3",
+          "title": "Regra dos 3",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "controle-de-panico",
+          "title": "Controle de Pânico",
+          "difficulty": "Alta",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "rotina-de-acampamento",
+          "title": "Rotina de Acampamento",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "combate-a-fadiga",
+          "title": "Combate à Fadiga",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "manutencao-de-moral",
+          "title": "Manutenção de Moral",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "metodo-stop",
+          "title": "Método STOP",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "gestao-de-energia",
+          "title": "Gestão de Energia",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "lidar-com-isolamento",
+          "title": "Lidar com Isolamento",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "visualizacao-positiva",
+          "title": "Visualização Positiva",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "divisao-de-tarefas",
+          "title": "Divisão de Tarefas",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "preparacao-para-resgate",
+          "title": "Preparação para Resgate",
+          "difficulty": "Média",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        },
+        {
+          "id": "meditacao-tatica",
+          "title": "Meditação Tática",
+          "difficulty": "Baixa",
+          "image": "",
+          "schematic": "",
+          "materials": [
+            "Recurso natural primário (madeira, pedra, folhas)",
+            "Ferramenta de corte (faca ou pedra afiada)",
+            "Material de amarração (corda, cipó ou raízes)",
+            "Tempo e paciência (recurso mental)"
+          ],
+          "steps": [
+            "Avalie o ambiente e reúna todos os materiais necessários antes de iniciar o procedimento.",
+            "Prepare a área de trabalho, garantindo segurança e estabilidade para a execução.",
+            "Inicie a montagem ou processamento seguindo os princípios básicos de engenharia de campo.",
+            "Ajuste as tensões, encaixes ou amarrações conforme necessário para garantir durabilidade.",
+            "Teste o equipamento ou técnica em um ambiente controlado antes do uso real.",
+            "Realize a manutenção constante para evitar falhas críticas durante a sobrevivência."
+          ],
+          "expertTip": "A pressa é inimiga da sobrevivência. Execute cada passo com precisão cirúrgica para economizar calorias a longo prazo."
+        }
+      ]
+    }
+  ]
+}
